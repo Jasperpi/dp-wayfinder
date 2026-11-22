@@ -1,0 +1,1587 @@
+{
+ "school": {
+  "name": "Dos Pueblos High School",
+  "address": "7266 Alameda Ave, Goleta, CA 93117",
+  "lat": 34.4387449,
+  "lng": -119.8775136
+ },
+ "map": {
+  "image": "campus-map.png",
+  "width": 1000,
+  "height": 875,
+  "note": "All coordinates are in this 1000x875 map space, x right, y down. The PNG is the same picture at a higher pixel size; scale it to 1000x875."
+ },
+ "georeference": {
+  "formula": "lat = ax*x + ay*y + a0 ; lng = ox*x + oy*y + o0",
+  "ax": -0.00000434879238808,
+  "ay": 6.19688922006e-9,
+  "a0": 34.44094056,
+  "ox": -4.17920433809e-9,
+  "oy": -0.00000514336609282,
+  "o0": -119.876213,
+  "note": "Least-squares affine fit against OpenStreetMap, worst residual 5.6 m. North points LEFT on this map: +x runs due south, +y runs due west. About 0.484 m per unit in x, 0.472 m per unit in y."
+ },
+ "buildings": {
+  "t": {
+   "name": "T building",
+   "note": "the row behind the gym, toward the wood shop"
+  },
+  "b": {
+   "name": "B building",
+   "note": "the long double row below the T building"
+  },
+  "h": {
+   "name": "H building",
+   "note": "the big cluster at the Cafeteria Rd end of campus"
+  },
+  "s": {
+   "name": "S building",
+   "note": "the science rooms behind the administration building"
+  },
+  "m": {
+   "name": "M building",
+   "note": "the small cluster between the S building and the quad"
+  },
+  "e": {
+   "name": "E building",
+   "note": "the Engineering Academy (DPEA) wing",
+   "at": "dpea"
+  },
+  "c": {
+   "name": "C building",
+   "note": "the far corner past the H building"
+  },
+  "a": {
+   "name": "A building",
+   "note": "the art rooms by the Athletics Office"
+  },
+  "p": {
+   "name": "P building",
+   "note": "by the Greek theater, where band, choir and leadership meet"
+  },
+  "q": {
+   "name": "Q building",
+   "note": "the north end, above the pool"
+  },
+  "l": {
+   "name": "L-1",
+   "note": "attached to the Library",
+   "at": "library"
+  },
+  "ep": {
+   "name": "EPAC",
+   "note": "inside the Elings Performing Arts Center",
+   "at": "theater"
+  }
+ },
+ "rooms": [
+  {
+   "id": "T12",
+   "label": "T-12",
+   "x": 500,
+   "y": 365,
+   "building": "t"
+  },
+  {
+   "id": "T11",
+   "label": "T-11",
+   "x": 517,
+   "y": 365,
+   "building": "t"
+  },
+  {
+   "id": "T7A",
+   "label": "T-7A",
+   "x": 549,
+   "y": 361,
+   "building": "t"
+  },
+  {
+   "id": "T6",
+   "label": "T-6",
+   "x": 578,
+   "y": 380,
+   "building": "t"
+  },
+  {
+   "id": "T5A",
+   "label": "T-5A",
+   "x": 608,
+   "y": 361,
+   "building": "t"
+  },
+  {
+   "id": "T4",
+   "label": "T-4",
+   "x": 649,
+   "y": 378,
+   "building": "t"
+  },
+  {
+   "id": "T7",
+   "label": "T-7",
+   "x": 549,
+   "y": 377,
+   "building": "t"
+  },
+  {
+   "id": "T5",
+   "label": "T-5",
+   "x": 609,
+   "y": 377,
+   "building": "t"
+  },
+  {
+   "id": "T10",
+   "label": "T-10",
+   "x": 500,
+   "y": 391,
+   "building": "t"
+  },
+  {
+   "id": "T9B",
+   "label": "T-9B",
+   "x": 516,
+   "y": 386,
+   "building": "t"
+  },
+  {
+   "id": "T9C",
+   "label": "T-9C",
+   "x": 516,
+   "y": 397,
+   "building": "t"
+  },
+  {
+   "id": "T8",
+   "label": "T-8",
+   "x": 494,
+   "y": 408,
+   "building": "t"
+  },
+  {
+   "id": "T3",
+   "label": "T-3",
+   "x": 633,
+   "y": 413,
+   "building": "t"
+  },
+  {
+   "id": "T2A",
+   "label": "T-2A",
+   "x": 633,
+   "y": 436,
+   "building": "t"
+  },
+  {
+   "id": "T2",
+   "label": "T-2",
+   "x": 650,
+   "y": 435,
+   "building": "t"
+  },
+  {
+   "id": "T1A",
+   "label": "T-1A",
+   "x": 637,
+   "y": 455,
+   "building": "t"
+  },
+  {
+   "id": "T1",
+   "label": "T-1",
+   "x": 654,
+   "y": 455,
+   "building": "t"
+  },
+  {
+   "id": "B9",
+   "label": "B-9",
+   "x": 500,
+   "y": 441,
+   "building": "b"
+  },
+  {
+   "id": "B10",
+   "label": "B-10",
+   "x": 516,
+   "y": 441,
+   "building": "b"
+  },
+  {
+   "id": "B11",
+   "label": "B-11",
+   "x": 541,
+   "y": 441,
+   "building": "b"
+  },
+  {
+   "id": "B12",
+   "label": "B-12",
+   "x": 561,
+   "y": 441,
+   "building": "b"
+  },
+  {
+   "id": "B13",
+   "label": "B-13",
+   "x": 576,
+   "y": 441,
+   "building": "b"
+  },
+  {
+   "id": "B14",
+   "label": "B-14",
+   "x": 591,
+   "y": 441,
+   "building": "b"
+  },
+  {
+   "id": "B8",
+   "label": "B-8",
+   "x": 500,
+   "y": 458,
+   "building": "b"
+  },
+  {
+   "id": "B7",
+   "label": "B-7",
+   "x": 516,
+   "y": 458,
+   "building": "b"
+  },
+  {
+   "id": "B6",
+   "label": "B-6",
+   "x": 528,
+   "y": 458,
+   "building": "b"
+  },
+  {
+   "id": "B5",
+   "label": "B-5",
+   "x": 538,
+   "y": 458,
+   "building": "b"
+  },
+  {
+   "id": "B4",
+   "label": "B-4",
+   "x": 550,
+   "y": 458,
+   "building": "b"
+  },
+  {
+   "id": "B3",
+   "label": "B-3",
+   "x": 563,
+   "y": 458,
+   "building": "b"
+  },
+  {
+   "id": "B2",
+   "label": "B-2",
+   "x": 576,
+   "y": 458,
+   "building": "b"
+  },
+  {
+   "id": "B1",
+   "label": "B-1",
+   "x": 592,
+   "y": 458,
+   "building": "b"
+  },
+  {
+   "id": "H29",
+   "label": "H-29",
+   "x": 722,
+   "y": 587,
+   "building": "h"
+  },
+  {
+   "id": "H28",
+   "label": "H-28",
+   "x": 739,
+   "y": 587,
+   "building": "h"
+  },
+  {
+   "id": "H27",
+   "label": "H-27",
+   "x": 756,
+   "y": 587,
+   "building": "h"
+  },
+  {
+   "id": "H26",
+   "label": "H-26",
+   "x": 773,
+   "y": 587,
+   "building": "h"
+  },
+  {
+   "id": "H25",
+   "label": "H-25",
+   "x": 790,
+   "y": 587,
+   "building": "h"
+  },
+  {
+   "id": "H33",
+   "label": "H-33",
+   "x": 669,
+   "y": 601,
+   "building": "h"
+  },
+  {
+   "id": "H32",
+   "label": "H-32",
+   "x": 686,
+   "y": 601,
+   "building": "h"
+  },
+  {
+   "id": "H20",
+   "label": "H-20",
+   "x": 724,
+   "y": 608,
+   "building": "h"
+  },
+  {
+   "id": "H21",
+   "label": "H-21",
+   "x": 739,
+   "y": 603,
+   "building": "h"
+  },
+  {
+   "id": "H22",
+   "label": "H-22",
+   "x": 756,
+   "y": 603,
+   "building": "h"
+  },
+  {
+   "id": "H23",
+   "label": "H-23",
+   "x": 773,
+   "y": 603,
+   "building": "h"
+  },
+  {
+   "id": "H24",
+   "label": "H-24",
+   "x": 785,
+   "y": 606,
+   "building": "h"
+  },
+  {
+   "id": "H34",
+   "label": "H-34",
+   "x": 669,
+   "y": 619,
+   "building": "h"
+  },
+  {
+   "id": "H31",
+   "label": "H-31",
+   "x": 687,
+   "y": 619,
+   "building": "h"
+  },
+  {
+   "id": "H30",
+   "label": "H-30",
+   "x": 677,
+   "y": 638,
+   "building": "h"
+  },
+  {
+   "id": "H11",
+   "label": "H-11",
+   "x": 782,
+   "y": 639,
+   "building": "h"
+  },
+  {
+   "id": "H12",
+   "label": "H-12",
+   "x": 774,
+   "y": 656,
+   "building": "h"
+  },
+  {
+   "id": "H17",
+   "label": "H-17",
+   "x": 790,
+   "y": 656,
+   "building": "h"
+  },
+  {
+   "id": "H1",
+   "label": "H-1",
+   "x": 669,
+   "y": 672,
+   "building": "h"
+  },
+  {
+   "id": "H2",
+   "label": "H-2",
+   "x": 687,
+   "y": 672,
+   "building": "h"
+  },
+  {
+   "id": "H3",
+   "label": "H-3",
+   "x": 702,
+   "y": 672,
+   "building": "h"
+  },
+  {
+   "id": "H4",
+   "label": "H-4",
+   "x": 718,
+   "y": 672,
+   "building": "h"
+  },
+  {
+   "id": "H5",
+   "label": "H-5",
+   "x": 735,
+   "y": 672,
+   "building": "h"
+  },
+  {
+   "id": "H13",
+   "label": "H-13",
+   "x": 774,
+   "y": 673,
+   "building": "h"
+  },
+  {
+   "id": "H16",
+   "label": "H-16",
+   "x": 790,
+   "y": 673,
+   "building": "h"
+  },
+  {
+   "id": "H10",
+   "label": "H-10",
+   "x": 669,
+   "y": 689,
+   "building": "h"
+  },
+  {
+   "id": "H9",
+   "label": "H-9",
+   "x": 687,
+   "y": 689,
+   "building": "h"
+  },
+  {
+   "id": "H8",
+   "label": "H-8",
+   "x": 702,
+   "y": 689,
+   "building": "h"
+  },
+  {
+   "id": "H7",
+   "label": "H-7",
+   "x": 718,
+   "y": 689,
+   "building": "h"
+  },
+  {
+   "id": "H6",
+   "label": "H-6",
+   "x": 735,
+   "y": 689,
+   "building": "h"
+  },
+  {
+   "id": "H14",
+   "label": "H-14",
+   "x": 774,
+   "y": 690,
+   "building": "h"
+  },
+  {
+   "id": "H15",
+   "label": "H-15",
+   "x": 790,
+   "y": 690,
+   "building": "h"
+  },
+  {
+   "id": "S8",
+   "label": "S-8",
+   "x": 509,
+   "y": 530,
+   "building": "s"
+  },
+  {
+   "id": "S10",
+   "label": "S-10",
+   "x": 501,
+   "y": 554,
+   "building": "s"
+  },
+  {
+   "id": "S7",
+   "label": "S-7",
+   "x": 519,
+   "y": 554,
+   "building": "s"
+  },
+  {
+   "id": "S5",
+   "label": "S-5",
+   "x": 509,
+   "y": 598,
+   "building": "s"
+  },
+  {
+   "id": "S3",
+   "label": "S-3",
+   "x": 507,
+   "y": 632,
+   "building": "s"
+  },
+  {
+   "id": "S4",
+   "label": "S-4",
+   "x": 546,
+   "y": 632,
+   "building": "s"
+  },
+  {
+   "id": "S2",
+   "label": "S-2",
+   "x": 507,
+   "y": 648,
+   "building": "s"
+  },
+  {
+   "id": "S1",
+   "label": "S-1",
+   "x": 547,
+   "y": 648,
+   "building": "s"
+  },
+  {
+   "id": "M5",
+   "label": "M-5",
+   "x": 569,
+   "y": 530,
+   "building": "m"
+  },
+  {
+   "id": "M4",
+   "label": "M-4",
+   "x": 587,
+   "y": 530,
+   "building": "m"
+  },
+  {
+   "id": "M1",
+   "label": "M-1",
+   "x": 551,
+   "y": 539,
+   "building": "m"
+  },
+  {
+   "id": "M2",
+   "label": "M-2",
+   "x": 569,
+   "y": 547,
+   "building": "m"
+  },
+  {
+   "id": "M3",
+   "label": "M-3",
+   "x": 587,
+   "y": 547,
+   "building": "m"
+  },
+  {
+   "id": "E14",
+   "label": "E-14",
+   "x": 902,
+   "y": 431,
+   "building": "e"
+  },
+  {
+   "id": "E13",
+   "label": "E-13",
+   "x": 879,
+   "y": 446,
+   "building": "e"
+  },
+  {
+   "id": "E11",
+   "label": "E-11",
+   "x": 878,
+   "y": 471,
+   "building": "e"
+  },
+  {
+   "id": "E12",
+   "label": "E-12",
+   "x": 902,
+   "y": 474,
+   "building": "e"
+  },
+  {
+   "id": "E10",
+   "label": "E-10",
+   "x": 878,
+   "y": 491,
+   "building": "e"
+  },
+  {
+   "id": "E09",
+   "label": "E-09",
+   "x": 902,
+   "y": 498,
+   "building": "e"
+  },
+  {
+   "id": "E18",
+   "label": "E-18",
+   "x": 897,
+   "y": 555,
+   "building": "e"
+  },
+  {
+   "id": "E17",
+   "label": "E-17",
+   "x": 850,
+   "y": 561,
+   "building": "e"
+  },
+  {
+   "id": "C1",
+   "label": "C-1",
+   "x": 840,
+   "y": 611,
+   "building": "c"
+  },
+  {
+   "id": "C2",
+   "label": "C-2",
+   "x": 859,
+   "y": 611,
+   "building": "c"
+  },
+  {
+   "id": "C3",
+   "label": "C-3",
+   "x": 877,
+   "y": 611,
+   "building": "c"
+  },
+  {
+   "id": "C4",
+   "label": "C-4",
+   "x": 893,
+   "y": 608,
+   "building": "c"
+  },
+  {
+   "id": "C5",
+   "label": "C-5",
+   "x": 904,
+   "y": 608,
+   "building": "c"
+  },
+  {
+   "id": "C9",
+   "label": "C-9",
+   "x": 840,
+   "y": 632,
+   "building": "c"
+  },
+  {
+   "id": "C8",
+   "label": "C-8",
+   "x": 859,
+   "y": 632,
+   "building": "c"
+  },
+  {
+   "id": "C7",
+   "label": "C-7",
+   "x": 877,
+   "y": 632,
+   "building": "c"
+  },
+  {
+   "id": "C6",
+   "label": "C-6",
+   "x": 898,
+   "y": 629,
+   "building": "c"
+  },
+  {
+   "id": "A6",
+   "label": "A-6",
+   "x": 732,
+   "y": 497,
+   "building": "a"
+  },
+  {
+   "id": "A4",
+   "label": "A-4",
+   "x": 773,
+   "y": 497,
+   "building": "a"
+  },
+  {
+   "id": "A1",
+   "label": "A-1",
+   "x": 733,
+   "y": 513,
+   "building": "a"
+  },
+  {
+   "id": "A3",
+   "label": "A-3",
+   "x": 773,
+   "y": 513,
+   "building": "a"
+  },
+  {
+   "id": "P3",
+   "label": "P-3",
+   "x": 821,
+   "y": 443,
+   "building": "p"
+  },
+  {
+   "id": "P2",
+   "label": "P-2",
+   "x": 821,
+   "y": 487,
+   "building": "p"
+  },
+  {
+   "id": "P1",
+   "label": "P-1",
+   "x": 821,
+   "y": 509,
+   "building": "p"
+  },
+  {
+   "id": "Q13",
+   "label": "Q-13",
+   "x": 396,
+   "y": 209,
+   "building": "q"
+  },
+  {
+   "id": "Q12",
+   "label": "Q-12",
+   "x": 417,
+   "y": 209,
+   "building": "q"
+  },
+  {
+   "id": "Q10",
+   "label": "Q-10",
+   "x": 439,
+   "y": 209,
+   "building": "q"
+  },
+  {
+   "id": "L1",
+   "label": "L-1",
+   "x": 673,
+   "y": 525,
+   "building": "l"
+  },
+  {
+   "id": "P126",
+   "label": "P-126",
+   "x": 431,
+   "y": 605,
+   "building": "ep"
+  },
+  {
+   "id": "P117",
+   "label": "P-117",
+   "x": 395,
+   "y": 652,
+   "building": "ep"
+  }
+ ],
+ "landmarks": [
+  {
+   "id": "stadium",
+   "label": "Stadium",
+   "x": 745,
+   "y": 160,
+   "keywords": [
+    "stadium",
+    "track",
+    "football"
+   ]
+  },
+  {
+   "id": "volleyball",
+   "label": "Beach Volleyball",
+   "x": 526,
+   "y": 103,
+   "keywords": [
+    "beach volleyball",
+    "sand volleyball"
+   ]
+  },
+  {
+   "id": "softball",
+   "label": "Softball Fields ↑",
+   "x": 466,
+   "y": 45,
+   "keywords": [
+    "softball"
+   ]
+  },
+  {
+   "id": "baseball",
+   "label": "Baseball Field",
+   "x": 209,
+   "y": 372,
+   "keywords": [
+    "baseball"
+   ]
+  },
+  {
+   "id": "pool",
+   "label": "Pool",
+   "x": 393,
+   "y": 282,
+   "keywords": [
+    "pool",
+    "aquatic",
+    "water polo"
+   ]
+  },
+  {
+   "id": "gym",
+   "label": "Gym",
+   "x": 389,
+   "y": 419,
+   "keywords": [
+    "gym",
+    "basketball",
+    "volleyball",
+    "wrestling",
+    "weight room",
+    "locker"
+   ]
+  },
+  {
+   "id": "tennis",
+   "label": "Tennis Courts",
+   "x": 171,
+   "y": 453,
+   "keywords": [
+    "tennis"
+   ]
+  },
+  {
+   "id": "greek",
+   "label": "The Greek",
+   "x": 752,
+   "y": 453,
+   "keywords": [
+    "greek",
+    "amphitheater"
+   ]
+  },
+  {
+   "id": "studentstore",
+   "label": "Student Store",
+   "x": 722,
+   "y": 436,
+   "keywords": [
+    "student store"
+   ]
+  },
+  {
+   "id": "patio",
+   "label": "Charger Patio",
+   "x": 692,
+   "y": 428,
+   "keywords": [
+    "charger patio",
+    "patio"
+   ]
+  },
+  {
+   "id": "cafeteria",
+   "label": "Cafeteria",
+   "x": 761,
+   "y": 398,
+   "keywords": [
+    "cafeteria",
+    "charger inn",
+    "food service"
+   ]
+  },
+  {
+   "id": "library",
+   "label": "Library",
+   "x": 654,
+   "y": 525,
+   "keywords": [
+    "library"
+   ]
+  },
+  {
+   "id": "theater",
+   "label": "EPAC Theater",
+   "x": 402,
+   "y": 590,
+   "keywords": [
+    "epac",
+    "theater",
+    "theatre",
+    "pac",
+    "performing arts"
+   ]
+  },
+  {
+   "id": "admin",
+   "label": "Administration",
+   "x": 594,
+   "y": 610,
+   "keywords": [
+    "admin",
+    "front desk",
+    "attendance office",
+    "business office",
+    "counselor",
+    "registrar",
+    "front office"
+   ]
+  },
+  {
+   "id": "dpea",
+   "label": "Engineering Academy",
+   "x": 889,
+   "y": 465,
+   "keywords": [
+    "dpea",
+    "engineering academy",
+    "engineering"
+   ]
+  },
+  {
+   "id": "busloop",
+   "label": "Bus Loop",
+   "x": 389,
+   "y": 722,
+   "keywords": [
+    "bus loop"
+   ]
+  },
+  {
+   "id": "parking",
+   "label": "Student Parking",
+   "x": 209,
+   "y": 722,
+   "keywords": [
+    "student parking",
+    "parking"
+   ]
+  }
+ ],
+ "spots": [
+  {
+   "id": "stafflounge",
+   "label": "Staff Lounge",
+   "sub": "Library building",
+   "x": 685,
+   "y": 558,
+   "keywords": [
+    "teacher lounge",
+    "faculty lounge",
+    "staff room",
+    "lounge"
+   ]
+  },
+  {
+   "id": "ccc",
+   "label": "College & Career Center",
+   "sub": "Library building",
+   "x": 646,
+   "y": 556,
+   "keywords": [
+    "career center",
+    "college center",
+    "ccc",
+    "college and career",
+    "college career"
+   ]
+  },
+  {
+   "id": "frontdesk",
+   "label": "Front Desk",
+   "sub": "Administration · visitors check in here",
+   "x": 592,
+   "y": 565,
+   "keywords": [
+    "front desk",
+    "visitor check in",
+    "sign in"
+   ]
+  },
+  {
+   "id": "attendance",
+   "label": "Attendance Office",
+   "sub": "Administration",
+   "x": 548,
+   "y": 590,
+   "keywords": [
+    "attendance",
+    "late pass",
+    "excuse"
+   ]
+  },
+  {
+   "id": "registrar",
+   "label": "Registrar",
+   "sub": "Administration",
+   "x": 546,
+   "y": 613,
+   "keywords": [
+    "registrar",
+    "enrollment",
+    "transcripts",
+    "records"
+   ]
+  },
+  {
+   "id": "business",
+   "label": "Business Office",
+   "sub": "Administration",
+   "x": 625,
+   "y": 597,
+   "keywords": [
+    "business office",
+    "bookkeeper",
+    "asb office"
+   ]
+  },
+  {
+   "id": "counselors",
+   "label": "Counselors",
+   "sub": "Administration",
+   "x": 569,
+   "y": 664,
+   "keywords": [
+    "counselor",
+    "counseling",
+    "guidance"
+   ]
+  },
+  {
+   "id": "athletics",
+   "label": "Athletics Office",
+   "sub": "Next to the Library",
+   "x": 708,
+   "y": 504,
+   "keywords": [
+    "athletic director",
+    "athletics",
+    "ad office",
+    "coaches office"
+   ]
+  },
+  {
+   "id": "production",
+   "label": "Production Center",
+   "sub": "Next to the Library",
+   "x": 733,
+   "y": 543,
+   "keywords": [
+    "copy room",
+    "copy center",
+    "print shop",
+    "production"
+   ]
+  },
+  {
+   "id": "kitchen",
+   "label": "Kitchen",
+   "sub": "Cafeteria",
+   "x": 793,
+   "y": 417,
+   "keywords": [
+    "kitchen",
+    "food service",
+    "lunch line"
+   ]
+  },
+  {
+   "id": "chargerinn",
+   "label": "Charger Inn",
+   "sub": "Cafeteria",
+   "x": 823,
+   "y": 402,
+   "keywords": [
+    "charger inn",
+    "snack bar",
+    "food window"
+   ]
+  },
+  {
+   "id": "woodshop",
+   "label": "Wood Shop",
+   "sub": "T building",
+   "x": 648,
+   "y": 369,
+   "keywords": [
+    "wood shop",
+    "woodshop",
+    "woodworking"
+   ]
+  },
+  {
+   "id": "custodians",
+   "label": "Custodians",
+   "sub": "T building",
+   "x": 578,
+   "y": 367,
+   "keywords": [
+    "custodian",
+    "custodial",
+    "janitor"
+   ]
+  },
+  {
+   "id": "epaclobby",
+   "label": "EPAC Lobby",
+   "sub": "Theater",
+   "x": 393,
+   "y": 531,
+   "keywords": [
+    "epac lobby",
+    "theater lobby",
+    "box office",
+    "tickets"
+   ]
+  },
+  {
+   "id": "gymlobby",
+   "label": "Gym Lobby",
+   "sub": "Gym",
+   "x": 388,
+   "y": 457,
+   "keywords": [
+    "gym lobby",
+    "gym entrance"
+   ]
+  },
+  {
+   "id": "girlslockers",
+   "label": "Girls Locker Room",
+   "sub": "Gym",
+   "x": 342,
+   "y": 408,
+   "keywords": [
+    "girls locker",
+    "girls lockers",
+    "locker room"
+   ]
+  },
+  {
+   "id": "boyslockers",
+   "label": "Boys Locker Room",
+   "sub": "Gym",
+   "x": 443,
+   "y": 408,
+   "keywords": [
+    "boys locker",
+    "boys lockers",
+    "locker room"
+   ]
+  },
+  {
+   "id": "weightroom",
+   "label": "Weight Room",
+   "sub": "Gym",
+   "x": 448,
+   "y": 454,
+   "keywords": [
+    "weight room",
+    "weights",
+    "fitness"
+   ]
+  },
+  {
+   "id": "wrestling",
+   "label": "Wrestling Room",
+   "sub": "Gym",
+   "x": 335,
+   "y": 455,
+   "keywords": [
+    "wrestling"
+   ]
+  },
+  {
+   "id": "trainingroom",
+   "label": "Training Room",
+   "sub": "Gym · athletic trainer",
+   "x": 479,
+   "y": 343,
+   "keywords": [
+    "training room",
+    "athletic trainer",
+    "trainer"
+   ]
+  },
+  {
+   "id": "varsityroom",
+   "label": "Varsity Room",
+   "sub": "Gym",
+   "x": 444,
+   "y": 368,
+   "keywords": [
+    "varsity room"
+   ]
+  },
+  {
+   "id": "blueroom",
+   "label": "Blue Room",
+   "sub": "Gym",
+   "x": 308,
+   "y": 371,
+   "keywords": [
+    "blue room"
+   ]
+  },
+  {
+   "id": "pooloffice",
+   "label": "Pool Office",
+   "sub": "Pool",
+   "x": 343,
+   "y": 321,
+   "keywords": [
+    "pool office"
+   ]
+  },
+  {
+   "id": "stadiumentrance",
+   "label": "Stadium Entrance",
+   "sub": "Stadium · tickets and gate",
+   "x": 517,
+   "y": 265,
+   "keywords": [
+    "stadium entrance",
+    "stadium gate",
+    "ticket booth",
+    "ticket gate"
+   ]
+  },
+  {
+   "id": "snackshack",
+   "label": "Snack Shack",
+   "sub": "Stadium",
+   "x": 569,
+   "y": 282,
+   "keywords": [
+    "snack shack",
+    "concession",
+    "snacks"
+   ]
+  },
+  {
+   "id": "homebleachers",
+   "label": "Home Bleachers",
+   "sub": "Stadium · west side",
+   "x": 748,
+   "y": 272,
+   "keywords": [
+    "home bleachers",
+    "home stands",
+    "home side",
+    "press box"
+   ]
+  },
+  {
+   "id": "visitorbleachers",
+   "label": "Visitor Bleachers",
+   "sub": "Stadium · east side",
+   "x": 744,
+   "y": 60,
+   "keywords": [
+    "visitor bleachers",
+    "visitor stands",
+    "visitor side",
+    "away side"
+   ]
+  },
+  {
+   "id": "elevator",
+   "label": "Elevator",
+   "sub": "DPEA building",
+   "x": 850,
+   "y": 582,
+   "keywords": [
+    "elevator",
+    "accessible"
+   ]
+  },
+  {
+   "id": "flagpole",
+   "label": "Flagpole",
+   "sub": "Front of campus",
+   "x": 640,
+   "y": 627,
+   "keywords": [
+    "flagpole",
+    "flag pole"
+   ]
+  },
+  {
+   "id": "staffparking",
+   "label": "Staff Parking (north)",
+   "sub": "Next to the stadium",
+   "x": 606,
+   "y": 314,
+   "keywords": [
+    "staff parking",
+    "teacher parking",
+    "staff lot"
+   ]
+  },
+  {
+   "id": "staffparkingw",
+   "label": "Staff Parking (Alameda)",
+   "sub": "By the bus loop",
+   "x": 525,
+   "y": 701,
+   "keywords": [
+    "staff parking",
+    "teacher parking",
+    "staff lot"
+   ]
+  },
+  {
+   "id": "staffparkinge",
+   "label": "Staff Parking (Cafeteria Rd)",
+   "sub": "East side",
+   "x": 871,
+   "y": 668,
+   "keywords": [
+    "staff parking",
+    "teacher parking",
+    "staff lot"
+   ]
+  },
+  {
+   "id": "rr-cafeteria",
+   "label": "Restrooms · Cafeteria",
+   "sub": "Restrooms",
+   "x": 725,
+   "y": 390,
+   "short": "Restrooms",
+   "keywords": [
+    "restroom",
+    "restrooms",
+    "bathroom",
+    "toilet",
+    "wc"
+   ]
+  },
+  {
+   "id": "rr-pool",
+   "label": "Restrooms · Pool deck",
+   "sub": "Restrooms",
+   "x": 433,
+   "y": 354,
+   "short": "Restrooms",
+   "keywords": [
+    "restroom",
+    "restrooms",
+    "bathroom",
+    "toilet",
+    "wc"
+   ]
+  },
+  {
+   "id": "rr-gymg",
+   "label": "Restrooms · Gym (west)",
+   "sub": "Restrooms",
+   "x": 357,
+   "y": 460,
+   "short": "Restrooms",
+   "keywords": [
+    "restroom",
+    "restrooms",
+    "bathroom",
+    "toilet",
+    "wc"
+   ]
+  },
+  {
+   "id": "rr-gymb",
+   "label": "Restrooms · Gym (east)",
+   "sub": "Restrooms",
+   "x": 422,
+   "y": 460,
+   "short": "Restrooms",
+   "keywords": [
+    "restroom",
+    "restrooms",
+    "bathroom",
+    "toilet",
+    "wc"
+   ]
+  },
+  {
+   "id": "rr-tb",
+   "label": "Restrooms · T and B courtyard",
+   "sub": "Restrooms",
+   "x": 605,
+   "y": 450,
+   "short": "Restrooms",
+   "keywords": [
+    "restroom",
+    "restrooms",
+    "bathroom",
+    "toilet",
+    "wc"
+   ]
+  },
+  {
+   "id": "rr-epac",
+   "label": "Restrooms · EPAC lobby",
+   "sub": "Restrooms",
+   "x": 361,
+   "y": 542,
+   "short": "Restrooms",
+   "keywords": [
+    "restroom",
+    "restrooms",
+    "bathroom",
+    "toilet",
+    "wc"
+   ]
+  },
+  {
+   "id": "rr-epac2",
+   "label": "Restrooms · EPAC back",
+   "sub": "Restrooms",
+   "x": 397,
+   "y": 638,
+   "short": "Restrooms",
+   "keywords": [
+    "restroom",
+    "restrooms",
+    "bathroom",
+    "toilet",
+    "wc"
+   ]
+  },
+  {
+   "id": "rr-h",
+   "label": "Restrooms · H building",
+   "sub": "Restrooms",
+   "x": 676,
+   "y": 583,
+   "short": "Restrooms",
+   "keywords": [
+    "restroom",
+    "restrooms",
+    "bathroom",
+    "toilet",
+    "wc"
+   ]
+  },
+  {
+   "id": "rr-c",
+   "label": "Restrooms · C building",
+   "sub": "Restrooms",
+   "x": 823,
+   "y": 621,
+   "short": "Restrooms",
+   "keywords": [
+    "restroom",
+    "restrooms",
+    "bathroom",
+    "toilet",
+    "wc"
+   ]
+  },
+  {
+   "id": "rr-dpea",
+   "label": "Restrooms · DPEA",
+   "sub": "Restrooms",
+   "x": 875,
+   "y": 503,
+   "short": "Restrooms",
+   "keywords": [
+    "restroom",
+    "restrooms",
+    "bathroom",
+    "toilet",
+    "wc"
+   ]
+  },
+  {
+   "id": "rr-stadium",
+   "label": "Restrooms · Stadium",
+   "sub": "Restrooms",
+   "x": 632,
+   "y": 271,
+   "short": "Restrooms",
+   "keywords": [
+    "restroom",
+    "restrooms",
+    "bathroom",
+    "toilet",
+    "wc"
+   ]
+  }
+ ],
+ "startPoints": [
+  {
+   "id": "front",
+   "label": "Front office",
+   "phrase": "the front office",
+   "hint": "the main entrance off the bus loop",
+   "x": 594,
+   "y": 610
+  },
+  {
+   "id": "parking",
+   "label": "Student parking",
+   "phrase": "student parking",
+   "hint": "the big lot off Alameda Ave",
+   "x": 209,
+   "y": 722
+  },
+  {
+   "id": "greek",
+   "label": "The Greek",
+   "phrase": "the Greek",
+   "hint": "the middle of campus",
+   "x": 752,
+   "y": 453
+  },
+  {
+   "id": "east",
+   "label": "Cafeteria Rd lot",
+   "phrase": "the Cafeteria Rd lot",
+   "hint": "the staff lot on the east side",
+   "x": 871,
+   "y": 667
+  }
+ ]
+}

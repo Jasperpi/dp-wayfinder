@@ -1,0 +1,17 @@
+{
+  "name": "DP Wayfinder — Dos Pueblos High School",
+  "short_name": "DP Wayfinder",
+  "description": "Offline walking directions and campus map for Dos Pueblos High School in Goleta, CA.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0F1D31",
+  "theme_color": "#12233B",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

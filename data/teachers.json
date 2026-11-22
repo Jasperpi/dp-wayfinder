@@ -1,0 +1,1681 @@
+{
+ "note": "Staff directory data from the school master schedule, fall 2026: teacher, room(s), department, class by period. No student information.",
+ "teachers": [
+  {
+   "name": "Kevin Ahlers",
+   "sortName": "ahlers, kevin",
+   "rooms": [
+    "T-10"
+   ],
+   "departments": [
+    "Math"
+   ],
+   "periods": {
+    "1": "AVID 12",
+    "3": "AP Psych",
+    "4": "AP Psych"
+   }
+  },
+  {
+   "name": "Maritza Alvardo",
+   "sortName": "alvardo, maritza",
+   "rooms": [
+    "A-6",
+    "A-3"
+   ],
+   "departments": [
+    "Visual Arts"
+   ],
+   "periods": {
+    "1": "Ceramics",
+    "2": "Freehand Drawing"
+   }
+  },
+  {
+   "name": "Courtney Anderson",
+   "sortName": "anderson, courtney",
+   "rooms": [
+    "P-126"
+   ],
+   "departments": [
+    "Performing Arts"
+   ],
+   "periods": {
+    "1": "Mixed Chorus",
+    "2": "Acapella",
+    "3": "Madrigals"
+   }
+  },
+  {
+   "name": "Kristi Anderson",
+   "sortName": "anderson, kristi",
+   "rooms": [
+    "T-1"
+   ],
+   "departments": [
+    "Health"
+   ],
+   "periods": {
+    "1": "Health",
+    "2": "AVID 9",
+    "4": "Health"
+   }
+  },
+  {
+   "name": "Seth Asuncion",
+   "sortName": "asuncion, seth",
+   "rooms": [
+    "B-13"
+   ],
+   "departments": [
+    "Special Education"
+   ],
+   "periods": {
+    "1": "English 11 (Dwyer)",
+    "2": "English 11 (Munoz)",
+    "4": "English Intervention"
+   }
+  },
+  {
+   "name": "Maycee Ballew",
+   "sortName": "ballew, maycee",
+   "rooms": [
+    "S-4"
+   ],
+   "departments": [
+    "Science"
+   ],
+   "periods": {
+    "1": "AP Biology",
+    "2": "Biology",
+    "4": "AP Biology"
+   }
+  },
+  {
+   "name": "Sarah Bardin",
+   "sortName": "bardin, sarah",
+   "rooms": [
+    "H-8"
+   ],
+   "departments": [
+    "Social Studies"
+   ],
+   "periods": {
+    "1": "AP World",
+    "2": "AP World"
+   }
+  },
+  {
+   "name": "Reilly Biedebach",
+   "sortName": "biedebach, reilly",
+   "rooms": [
+    "S-7"
+   ],
+   "departments": [
+    "Science"
+   ],
+   "periods": {
+    "1": "Chemistry",
+    "2": "Chemistry",
+    "4": "Chemistry"
+   }
+  },
+  {
+   "name": "Alisa Block",
+   "sortName": "block, alisa",
+   "rooms": [
+    "H-25"
+   ],
+   "departments": [
+    "Math"
+   ],
+   "periods": {
+    "1": "Math 2/3 Comp",
+    "2": "Math 2 (Jackson)",
+    "3": "Math 2/3 Comp"
+   }
+  },
+  {
+   "name": "Ali Bogatz",
+   "sortName": "bogatz, ali",
+   "rooms": [
+    "P-2"
+   ],
+   "departments": [
+    "Leadership",
+    "Social Studies"
+   ],
+   "periods": {
+    "1": "Gov/Econ - Innovate",
+    "2": "Leadership",
+    "4": "Work Ed"
+   }
+  },
+  {
+   "name": "Jacob Boone",
+   "sortName": "boone, jacob",
+   "rooms": [
+    "B-08"
+   ],
+   "departments": [
+    "Special Education"
+   ],
+   "periods": {
+    "1": "Life Skills",
+    "2": "Life Skills",
+    "4": "Life Skills"
+   }
+  },
+  {
+   "name": "Jordan Bornand",
+   "sortName": "bornand, jordan",
+   "rooms": [
+    "T-2"
+   ],
+   "departments": [
+    "Math"
+   ],
+   "periods": {
+    "1": "Math 3",
+    "2": "Math 3 - Innovate",
+    "3": "Math 3"
+   }
+  },
+  {
+   "name": "Corey Boyce",
+   "sortName": "boyce, corey",
+   "rooms": [
+    "DPEA"
+   ],
+   "departments": [
+    "DPEA"
+   ],
+   "periods": {
+    "2": "AdvEngrPhys"
+   }
+  },
+  {
+   "name": "Chase Buchanan",
+   "sortName": "buchanan, chase",
+   "rooms": [
+    "DPEA"
+   ],
+   "departments": [
+    "DPEA"
+   ],
+   "periods": {
+    "1": "Mechatronics 1",
+    "2": "PrdMfg & PrdDev2 & Mech 2",
+    "3": "STEM 101/ENGR 101",
+    "4": "PrdMfg & PrdDev2 & Mech 2"
+   }
+  },
+  {
+   "name": "Chrissie Cable",
+   "sortName": "cable, chrissie",
+   "rooms": [
+    "B-13"
+   ],
+   "departments": [
+    "Special Education"
+   ],
+   "periods": {
+    "1": "English Intervention",
+    "2": "English 10 (Kopp/Macias)",
+    "3": "English 10 (Munoz)"
+   }
+  },
+  {
+   "name": "Doug Caines",
+   "sortName": "caines, doug",
+   "rooms": [
+    "C-7"
+   ],
+   "departments": [
+    "Career Technology Education"
+   ],
+   "periods": {
+    "1": "Adv Video Prod 2/3",
+    "2": "Video Production 1",
+    "4": "Athletics"
+   }
+  },
+  {
+   "name": "Dan Choi",
+   "sortName": "choi, dan",
+   "rooms": [
+    "GYM"
+   ],
+   "departments": [
+    "P.E."
+   ],
+   "periods": {
+    "1": "Physical Education",
+    "2": "AVID 10",
+    "4": "Girls Golf"
+   }
+  },
+  {
+   "name": "Kelly Choi",
+   "sortName": "choi, kelly",
+   "rooms": [
+    "A-1"
+   ],
+   "departments": [
+    "MTSS (Guided Studies)"
+   ],
+   "periods": {
+    "1": "Personalized Learning (EdG)",
+    "2": "Release - Innovate",
+    "4": "Personalized Learning (EdG)"
+   }
+  },
+  {
+   "name": "Jenna Corliss",
+   "sortName": "corliss, jenna",
+   "rooms": [
+    "H-8"
+   ],
+   "departments": [
+    "Social Studies"
+   ],
+   "periods": {
+    "3": "History 101/102",
+    "4": "History 101/102"
+   }
+  },
+  {
+   "name": "Patrick Costa",
+   "sortName": "costa, patrick",
+   "rooms": [
+    "H-16"
+   ],
+   "departments": [
+    "Math"
+   ],
+   "periods": {
+    "1": "Math Modeling (Petersen)",
+    "3": "Math 2 (Harmony)",
+    "4": "Math 2"
+   }
+  },
+  {
+   "name": "Marcelo Cruz",
+   "sortName": "cruz, marcelo",
+   "rooms": [
+    "T-1A"
+   ],
+   "departments": [
+    "World Languages"
+   ],
+   "periods": {
+    "1": "Spanish 2",
+    "3": "Native Speaker 3",
+    "4": "Spanish 2"
+   }
+  },
+  {
+   "name": "Paul Cuthbert",
+   "sortName": "cuthbert, paul",
+   "rooms": [
+    "S-1",
+    "S-4",
+    "S-3"
+   ],
+   "departments": [
+    "Science"
+   ],
+   "periods": {
+    "1": "Biology",
+    "3": "Biology",
+    "4": "Biology"
+   }
+  },
+  {
+   "name": "Jamie Davis",
+   "sortName": "davis, jamie",
+   "rooms": [
+    "A-6"
+   ],
+   "departments": [
+    "Visual Arts"
+   ],
+   "periods": {
+    "2": "Ceramics",
+    "3": "Ceramics",
+    "4": "Adv Ceramics"
+   }
+  },
+  {
+   "name": "John Dent",
+   "sortName": "dent, john",
+   "rooms": [
+    "C-2"
+   ],
+   "departments": [
+    "Career Technology Education"
+   ],
+   "periods": {
+    "1": "Adv Video Prod 2/3",
+    "2": "Yearbook",
+    "3": "Release Period"
+   }
+  },
+  {
+   "name": "Mandy Domingues",
+   "sortName": "domingues, mandy",
+   "rooms": [
+    "C-8"
+   ],
+   "departments": [
+    "Career Technology Education",
+    "Visual Arts"
+   ],
+   "periods": {
+    "1": "MAT 131/112",
+    "3": "MAT 105/MAT 105",
+    "4": "MAT 131/112"
+   }
+  },
+  {
+   "name": "Katie Dwyer",
+   "sortName": "dwyer, katie",
+   "rooms": [
+    "H-7",
+    "H-32"
+   ],
+   "departments": [
+    "English",
+    "MTSS (Guided Studies)"
+   ],
+   "periods": {
+    "1": "English 11 (Asuncion)",
+    "2": "Guided Studies",
+    "3": "IB English 11"
+   }
+  },
+  {
+   "name": "Marcus Escalera",
+   "sortName": "escalera, marcus",
+   "rooms": [
+    "H-33"
+   ],
+   "departments": [
+    "Social Studies"
+   ],
+   "periods": {
+    "1": "US History",
+    "2": "AP Gov/AP Gov",
+    "3": "US History"
+   }
+  },
+  {
+   "name": "Dan Feldhaus",
+   "sortName": "feldhaus, dan",
+   "rooms": [
+    "Q-12",
+    "Q-10"
+   ],
+   "departments": [
+    "Social Studies"
+   ],
+   "periods": {
+    "1": "Personal Finance",
+    "2": "Personal Finance- Innovate",
+    "4": "Athletics"
+   }
+  },
+  {
+   "name": "Karissa Ferraiolo",
+   "sortName": "ferraiolo, karissa",
+   "rooms": [
+    "B-13"
+   ],
+   "departments": [
+    "Special Education"
+   ],
+   "periods": {
+    "2": "Literacy",
+    "3": "Math Intervention",
+    "4": "Math 1 (Galindo)"
+   }
+  },
+  {
+   "name": "Beth Fuste",
+   "sortName": "fuste, beth",
+   "rooms": [
+    "Q-10"
+   ],
+   "departments": [
+    "Math"
+   ],
+   "periods": {
+    "1": "Math 1",
+    "3": "Math 1 (Peterson)",
+    "4": "Pre Calc"
+   }
+  },
+  {
+   "name": "Hozby Galindo",
+   "sortName": "galindo, hozby",
+   "rooms": [
+    "H-27"
+   ],
+   "departments": [
+    "Math"
+   ],
+   "periods": {
+    "2": "Math 1",
+    "3": "Math 1",
+    "4": "Math 1 (Ferraiolo)"
+   }
+  },
+  {
+   "name": "Todd Garrett",
+   "sortName": "garrett, todd",
+   "rooms": [
+    "T-8"
+   ],
+   "departments": [
+    "Career Technology Education"
+   ],
+   "periods": {
+    "1": "Kinesiology",
+    "2": "Sports Medicine",
+    "4": "Kinesiology"
+   }
+  },
+  {
+   "name": "Michael Gerken",
+   "sortName": "gerken, michael",
+   "rooms": [
+    "Q-13"
+   ],
+   "departments": [
+    "English"
+   ],
+   "periods": {
+    "1": "AP English Lang",
+    "2": "AP English Lang",
+    "3": "English 12"
+   }
+  },
+  {
+   "name": "Brian Gibson",
+   "sortName": "gibson, brian",
+   "rooms": [
+    "DPEA"
+   ],
+   "departments": [
+    "DPEA"
+   ],
+   "periods": {
+    "1": "PrdMfg & PrdDev2 & Mech 2",
+    "2": "PrdMfg & PrdDev2 & Mech 2",
+    "3": "PrdMfg & PrdDev2 & Mech 2",
+    "4": "PrdMfg & PrdDev2 & Mech 2"
+   }
+  },
+  {
+   "name": "Mike Gravitz",
+   "sortName": "gravitz, mike",
+   "rooms": [
+    "H-21"
+   ],
+   "departments": [
+    "Social Studies"
+   ],
+   "periods": {
+    "2": "AP Econ/AP Econ",
+    "3": "Gov/Econ",
+    "4": "Gov/Econ"
+   }
+  },
+  {
+   "name": "Anna Guerrero",
+   "sortName": "guerrero, anna",
+   "rooms": [
+    "H-14"
+   ],
+   "departments": [
+    "English"
+   ],
+   "periods": {
+    "1": "AVID 12",
+    "3": "TOK",
+    "4": "English 9 ES"
+   }
+  },
+  {
+   "name": "Dave Haggerty",
+   "sortName": "haggerty, dave",
+   "rooms": [
+    "S-10"
+   ],
+   "departments": [
+    "Science"
+   ],
+   "periods": {
+    "1": "AP Physics 1",
+    "2": "AP Physics 1",
+    "3": "AP Physics 2"
+   }
+  },
+  {
+   "name": "Cesar Hapaz",
+   "sortName": "hapaz, cesar",
+   "rooms": [
+    "DPEA"
+   ],
+   "departments": [
+    "DPEA"
+   ],
+   "periods": {
+    "1": "Mechatronics 1",
+    "2": "AdvEngrPhys",
+    "3": "PrdDevEng2 & Mech 2",
+    "4": "PrdDevEng2 & Mech 2"
+   }
+  },
+  {
+   "name": "Olivia Happel",
+   "sortName": "happel, olivia",
+   "rooms": [
+    "H-22"
+   ],
+   "departments": [
+    "English"
+   ],
+   "periods": {
+    "1": "ENG C1000",
+    "3": "ENG 111",
+    "4": "Myth/Film"
+   }
+  },
+  {
+   "name": "Lyle Harlow",
+   "sortName": "harlow, lyle",
+   "rooms": [
+    "DPEA"
+   ],
+   "departments": [
+    "DPEA"
+   ],
+   "periods": {
+    "1": "PrdMfg & PrdDev2 & Mech 2",
+    "2": "PrdMfg & PrdDev2 & Mech 2",
+    "3": "PrdMfg & PrdDev2 & Mech 2",
+    "4": "PrdMfg & PrdDev2 & Mech 2"
+   }
+  },
+  {
+   "name": "Nate Harmony",
+   "sortName": "harmony, nate",
+   "rooms": [
+    "B-2"
+   ],
+   "departments": [
+    "Special Education"
+   ],
+   "periods": {
+    "1": "Math Intervention",
+    "2": "Math Intervention",
+    "3": "Math 2 (Costa)"
+   }
+  },
+  {
+   "name": "Sabrina Harper",
+   "sortName": "harper, sabrina",
+   "rooms": [
+    "H-26"
+   ],
+   "departments": [
+    "Math"
+   ],
+   "periods": {
+    "2": "Math 2/3 Comp",
+    "3": "Math 3/Pre Calc",
+    "4": "Math 3/Pre Calc"
+   }
+  },
+  {
+   "name": "Stephanie Henderson",
+   "sortName": "henderson, stephanie",
+   "rooms": [
+    "H-32"
+   ],
+   "departments": [
+    "English"
+   ],
+   "periods": {
+    "1": "English 10",
+    "2": "English 9 ES (Joy)",
+    "3": "English 9 ES"
+   }
+  },
+  {
+   "name": "Cole Hufford",
+   "sortName": "hufford, cole",
+   "rooms": [
+    "S-5"
+   ],
+   "departments": [
+    "Science"
+   ],
+   "periods": {
+    "1": "Chemistry",
+    "2": "Chemistry",
+    "3": "Chemistry"
+   }
+  },
+  {
+   "name": "Joe Hulsizer",
+   "sortName": "hulsizer, joe",
+   "rooms": [
+    "H-29"
+   ],
+   "departments": [
+    "Special Education"
+   ],
+   "periods": {
+    "1": "Life Skills",
+    "2": "Life Skills",
+    "3": "Life Skills",
+    "4": "Life Skills"
+   }
+  },
+  {
+   "name": "Elena Ibbetson",
+   "sortName": "ibbetson, elena",
+   "rooms": [
+    "P-117"
+   ],
+   "departments": [
+    "Performing Arts"
+   ],
+   "periods": {
+    "2": "Theater Tech & Design"
+   }
+  },
+  {
+   "name": "David Jackson",
+   "sortName": "jackson, david",
+   "rooms": [
+    "T-7A"
+   ],
+   "departments": [
+    "Special Education"
+   ],
+   "periods": {
+    "1": "English Intervention",
+    "2": "Math 2 (Block)",
+    "4": "Athletics"
+   }
+  },
+  {
+   "name": "Jennifer Johnson",
+   "sortName": "johnson, jennifer",
+   "rooms": [
+    "A-4"
+   ],
+   "departments": [
+    "Visual Arts"
+   ],
+   "periods": {
+    "1": "Color & Design",
+    "2": "Color & Design",
+    "3": "Color & Design"
+   }
+  },
+  {
+   "name": "Ryan Joy",
+   "sortName": "joy, ryan",
+   "rooms": [
+    "B-2"
+   ],
+   "departments": [
+    "Special Education"
+   ],
+   "periods": {
+    "1": "English 9 (Savill/Krieshock)",
+    "2": "English 9 (Lorenz/Guerrer)",
+    "3": "English Intervention"
+   }
+  },
+  {
+   "name": "Anuroopa Kalbag",
+   "sortName": "kalbag, anuroopa",
+   "rooms": [
+    "H-28"
+   ],
+   "departments": [
+    "Math"
+   ],
+   "periods": {
+    "1": "Math 150",
+    "2": "STAT 1000",
+    "3": "Math 150"
+   }
+  },
+  {
+   "name": "Courtney Kimball",
+   "sortName": "kimball, courtney",
+   "rooms": [
+    "M-5"
+   ],
+   "departments": [
+    "Math"
+   ],
+   "periods": {
+    "1": "AP Calc",
+    "2": "Math 2",
+    "3": "AP Calc"
+   }
+  },
+  {
+   "name": "Lisa Koppenjan",
+   "sortName": "koppenjan, lisa",
+   "rooms": [
+    "H-31"
+   ],
+   "departments": [
+    "English"
+   ],
+   "periods": {
+    "1": "AP English Lit",
+    "2": "English 10 (Cable)",
+    "3": "AP English Lit"
+   }
+  },
+  {
+   "name": "Hannah Krieshok",
+   "sortName": "krieshok, hannah",
+   "rooms": [
+    "H-13"
+   ],
+   "departments": [
+    "English"
+   ],
+   "periods": {
+    "1": "English 9 ES (Joy)",
+    "2": "English 10 - Innovate",
+    "3": "English 11 - Innovate"
+   }
+  },
+  {
+   "name": "Kendall Kuga",
+   "sortName": "kuga, kendall",
+   "rooms": [
+    "M-4"
+   ],
+   "departments": [
+    "Math"
+   ],
+   "periods": {
+    "1": "Math 2 - Innovate",
+    "2": "Stats - Innovate",
+    "3": "AP Stats"
+   }
+  },
+  {
+   "name": "Joshua LaForge",
+   "sortName": "laforge, joshua",
+   "rooms": [
+    "M-1"
+   ],
+   "departments": [
+    "Science"
+   ],
+   "periods": {
+    "1": "Biology 9th - Innovate",
+    "2": "Physics- Innovate",
+    "3": "Int Sci 11 - Innovate"
+   }
+  },
+  {
+   "name": "Emily Libera",
+   "sortName": "libera, emily",
+   "rooms": [
+    "P-117"
+   ],
+   "departments": [
+    "Performing Arts"
+   ],
+   "periods": {
+    "2": "Theater 2",
+    "3": "Theater 1",
+    "4": "Adv Theater"
+   }
+  },
+  {
+   "name": "Alejandrina Lorenzano",
+   "sortName": "lorenzano, alejandrina",
+   "rooms": [
+    "H-12"
+   ],
+   "departments": [
+    "English"
+   ],
+   "periods": {
+    "2": "English 9 ES (Joy)",
+    "3": "Mex/Amer Lit 10 - AVID",
+    "4": "English 9 ES"
+   }
+  },
+  {
+   "name": "Juan Loza",
+   "sortName": "loza, juan",
+   "rooms": [
+    "Charger"
+   ],
+   "departments": [
+    "Career Technology Education"
+   ],
+   "periods": {
+    "1": "Culinary 2/3",
+    "2": "Culinary Arts 1",
+    "3": "Culinary Arts 1"
+   }
+  },
+  {
+   "name": "Mike Lynch",
+   "sortName": "lynch, mike",
+   "rooms": [
+    "S-8"
+   ],
+   "departments": [
+    "Science"
+   ],
+   "periods": {
+    "1": "Med Bio",
+    "2": "Social Dialog- Innovate",
+    "3": "Med Bio"
+   }
+  },
+  {
+   "name": "Peter Ma",
+   "sortName": "ma, peter",
+   "rooms": [
+    "M-2"
+   ],
+   "departments": [
+    "Math"
+   ],
+   "periods": {
+    "1": "Math 3",
+    "2": "Math 3",
+    "3": "Pre Calc"
+   }
+  },
+  {
+   "name": "Clarissa Macias",
+   "sortName": "macias, clarissa",
+   "rooms": [
+    "H-2"
+   ],
+   "departments": [
+    "English"
+   ],
+   "periods": {
+    "1": "English 10",
+    "2": "English 10 (Cable)",
+    "4": "Athletics - Cheer"
+   }
+  },
+  {
+   "name": "Erik Magaña",
+   "sortName": "magaña, erik",
+   "rooms": [
+    "B-1"
+   ],
+   "departments": [
+    "World Languages"
+   ],
+   "periods": {
+    "2": "Native Speaker 2",
+    "3": "Spanish 2",
+    "4": "Spanish 2"
+   }
+  },
+  {
+   "name": "Elaine Malm",
+   "sortName": "malm, elaine",
+   "rooms": [
+    "B-9"
+   ],
+   "departments": [
+    "Special Education"
+   ],
+   "periods": {
+    "1": "Life Skills",
+    "2": "Life Skills",
+    "3": "Life Skills"
+   }
+  },
+  {
+   "name": "Kristin Martinez-Petit",
+   "sortName": "martinez-petit, kristin",
+   "rooms": [
+    "H-3"
+   ],
+   "departments": [
+    "Social Studies"
+   ],
+   "periods": {
+    "2": "AP World",
+    "3": "ESSJ",
+    "4": "ESSJ"
+   }
+  },
+  {
+   "name": "Daniel Materna",
+   "sortName": "materna, daniel",
+   "rooms": [
+    "T-7"
+   ],
+   "departments": [
+    "Special Education"
+   ],
+   "periods": {
+    "1": "Life Skills",
+    "2": "Life Skills",
+    "4": "Life Skills"
+   }
+  },
+  {
+   "name": "Kate McHugh",
+   "sortName": "mchugh, kate",
+   "rooms": [
+    "H-34"
+   ],
+   "departments": [
+    "English"
+   ],
+   "periods": {
+    "1": "ENG 111",
+    "3": "Literacy Lab",
+    "4": "ENG C1000"
+   }
+  },
+  {
+   "name": "Ross Melczer",
+   "sortName": "melczer, ross",
+   "rooms": [
+    "T-12"
+   ],
+   "departments": [
+    "Social Studies"
+   ],
+   "periods": {
+    "1": "AP World",
+    "3": "World History",
+    "4": "World History"
+   }
+  },
+  {
+   "name": "Katie Mendenhall",
+   "sortName": "mendenhall, katie",
+   "rooms": [
+    "H-17"
+   ],
+   "departments": [
+    "Math"
+   ],
+   "periods": {
+    "1": "IB Math 11",
+    "2": "Math 2 Extended Time",
+    "3": "Math 2"
+   }
+  },
+  {
+   "name": "Pablo Miranda",
+   "sortName": "miranda, pablo",
+   "rooms": [
+    "H-20"
+   ],
+   "departments": [
+    "Special Education"
+   ],
+   "periods": {
+    "1": "Life Skills",
+    "2": "Life Skills",
+    "3": "Life Skills",
+    "4": "Life Skills"
+   }
+  },
+  {
+   "name": "Genesis Mizer",
+   "sortName": "mizer, genesis",
+   "rooms": [
+    "S-3"
+   ],
+   "departments": [
+    "Science"
+   ],
+   "periods": {
+    "1": "Biology",
+    "2": "Biology",
+    "3": "APES"
+   }
+  },
+  {
+   "name": "Chris Mollkoy",
+   "sortName": "mollkoy, chris",
+   "rooms": [
+    "T-6",
+    "T-4"
+   ],
+   "departments": [
+    "Career Technology Education"
+   ],
+   "periods": {
+    "1": "Explorations in Constr.",
+    "3": "Construction Tech 1",
+    "4": "Gone Boarding"
+   }
+  },
+  {
+   "name": "Gustavo Montes-Chaves",
+   "sortName": "montes-chaves, gustavo",
+   "rooms": [
+    "B-1",
+    "B-12",
+    "B-14"
+   ],
+   "departments": [
+    "World Languages"
+   ],
+   "periods": {
+    "1": "Spanish 1",
+    "2": "Spanish 2",
+    "4": "Spanish 1"
+   }
+  },
+  {
+   "name": "Mariana Montiel Garcia",
+   "sortName": "montiel garcia, mariana",
+   "rooms": [
+    "B-12"
+   ],
+   "departments": [
+    "World Languages"
+   ],
+   "periods": {
+    "1": "Spanish 2",
+    "3": "Spanish 1",
+    "4": "Spanish 1"
+   }
+  },
+  {
+   "name": "Ryan Mooneyham",
+   "sortName": "mooneyham, ryan",
+   "rooms": [
+    "H-10"
+   ],
+   "departments": [
+    "Social Studies"
+   ],
+   "periods": {
+    "1": "US History",
+    "2": "US History",
+    "3": "History 101/102"
+   }
+  },
+  {
+   "name": "Samantha Mooneyham",
+   "sortName": "mooneyham, samantha",
+   "rooms": [
+    "H-1"
+   ],
+   "departments": [
+    "Math"
+   ],
+   "periods": {
+    "1": "Math 2/3 Comp",
+    "2": "IB Math 12"
+   }
+  },
+  {
+   "name": "Matt Moran",
+   "sortName": "moran, matt",
+   "rooms": [
+    "H-15"
+   ],
+   "departments": [
+    "Social Studies"
+   ],
+   "periods": {
+    "1": "IB History 11",
+    "2": "IB Office",
+    "3": "IB History 11"
+   }
+  },
+  {
+   "name": "Danelle Muhr",
+   "sortName": "muhr, danelle",
+   "rooms": [
+    "B-4"
+   ],
+   "departments": [
+    "Math"
+   ],
+   "periods": {
+    "1": "AVID 9",
+    "2": "Pre Calc",
+    "4": "Math 3"
+   }
+  },
+  {
+   "name": "Vanessa Muñoz",
+   "sortName": "muñoz, vanessa",
+   "rooms": [
+    "H-5"
+   ],
+   "departments": [
+    "English"
+   ],
+   "periods": {
+    "2": "English 11 (Asuncion)",
+    "3": "Mex/Amer Lit 10 (Cable)",
+    "4": "English 11"
+   }
+  },
+  {
+   "name": "Courtney Nigro",
+   "sortName": "nigro, courtney",
+   "rooms": [
+    "GYM"
+   ],
+   "departments": [
+    "P.E."
+   ],
+   "periods": {
+    "2": "Physical Education",
+    "3": "Physical Education",
+    "4": "ISPE"
+   }
+  },
+  {
+   "name": "Megan O'Carroll",
+   "sortName": "o'carroll, megan",
+   "rooms": [
+    "S-2"
+   ],
+   "departments": [
+    "Science"
+   ],
+   "periods": {
+    "1": "Biology",
+    "2": "APES/ESS",
+    "3": "AVID 11"
+   }
+  },
+  {
+   "name": "Ashley Ong",
+   "sortName": "ong, ashley",
+   "rooms": [
+    "C-9"
+   ],
+   "departments": [
+    "Career Technology Education"
+   ],
+   "periods": {
+    "1": "AP Computer Science",
+    "2": "AP Computer Science",
+    "3": "Exploring Comp Science"
+   }
+  },
+  {
+   "name": "Ryan Ostrander",
+   "sortName": "ostrander, ryan",
+   "rooms": [
+    "H-9"
+   ],
+   "departments": [
+    "Social Studies"
+   ],
+   "periods": {
+    "1": "World History",
+    "2": "US History - Innovate",
+    "3": "World History"
+   }
+  },
+  {
+   "name": "AJ Pateras",
+   "sortName": "pateras, aj",
+   "rooms": [
+    "B-11"
+   ],
+   "departments": [
+    "Social Studies"
+   ],
+   "periods": {
+    "1": "Law & Society",
+    "2": "L&S-Term 1/Econ-Term 2",
+    "4": "Athletics"
+   }
+  },
+  {
+   "name": "Gina Pearce",
+   "sortName": "pearce, gina",
+   "rooms": [
+    "L-1"
+   ],
+   "departments": [
+    "Math"
+   ],
+   "periods": {
+    "1": "Math 3/Pre Calc"
+   }
+  },
+  {
+   "name": "John Pelton",
+   "sortName": "pelton, john",
+   "rooms": [
+    "S-1"
+   ],
+   "departments": [
+    "Science"
+   ],
+   "periods": {
+    "2": "AP/IB Bio",
+    "3": "Chemistry",
+    "4": "Chemistry"
+   }
+  },
+  {
+   "name": "Kris Petersen",
+   "sortName": "petersen, kris",
+   "rooms": [
+    "T-7A"
+   ],
+   "departments": [
+    "Special Education"
+   ],
+   "periods": {
+    "1": "Math Modeling (Costa)",
+    "2": "Math Intervention",
+    "3": "Math 1 (Fuste)"
+   }
+  },
+  {
+   "name": "Bilha Raygoza",
+   "sortName": "raygoza, bilha",
+   "rooms": [
+    "B-14"
+   ],
+   "departments": [
+    "World Languages"
+   ],
+   "periods": {
+    "1": "Spanish 3",
+    "2": "Spanish 3",
+    "3": "Spanish 3"
+   }
+  },
+  {
+   "name": "Sara Richardson",
+   "sortName": "richardson, sara",
+   "rooms": [
+    "H-4"
+   ],
+   "departments": [
+    "English"
+   ],
+   "periods": {
+    "2": "English 12",
+    "3": "English 10 (Cable)",
+    "4": "English 10"
+   }
+  },
+  {
+   "name": "Mike Ringer",
+   "sortName": "ringer, mike",
+   "rooms": [
+    "DPEA"
+   ],
+   "departments": [
+    "DPEA"
+   ],
+   "periods": {
+    "1": "Mechatronics 1",
+    "2": "AdvEngrPhys",
+    "3": "PrdDevEng2 & Mech 2"
+   }
+  },
+  {
+   "name": "Leila Riveroll",
+   "sortName": "riveroll, leila",
+   "rooms": [
+    "A-3"
+   ],
+   "departments": [
+    "Visual Arts"
+   ],
+   "periods": {
+    "1": "Portfolio Dev/IB Art 1",
+    "3": "Freehand Drawing",
+    "4": "Freehand Drawing"
+   }
+  },
+  {
+   "name": "Theresa Rogers",
+   "sortName": "rogers, theresa",
+   "rooms": [
+    "DPEA"
+   ],
+   "departments": [
+    "DPEA"
+   ],
+   "periods": {
+    "1": "PrdMfg & PrdDev2 & Mech 2",
+    "2": "PrdMfg & PrdDev2 & Mech 2",
+    "3": "STEM 101/ENGR 101",
+    "4": "PrdMfg & PrdDev2 & Mech 2"
+   }
+  },
+  {
+   "name": "Ben Rudolph",
+   "sortName": "rudolph, ben",
+   "rooms": [
+    "T-5"
+   ],
+   "departments": [
+    "English"
+   ],
+   "periods": {
+    "1": "English 12 - Innovate",
+    "2": "English 9 - Innovate",
+    "3": "AP English Lang"
+   }
+  },
+  {
+   "name": "Hector Sanchez",
+   "sortName": "sanchez, hector",
+   "rooms": [
+    "DPEA"
+   ],
+   "departments": [
+    "DPEA"
+   ],
+   "periods": {
+    "1": "PrdMfg & PrdDev2 & Mech 2",
+    "2": "PrdMfg & PrdDev2 & Mech 2",
+    "3": "STEM 101/ENGR 101"
+   }
+  },
+  {
+   "name": "Rebecca Savill",
+   "sortName": "savill, rebecca",
+   "rooms": [
+    "H-24"
+   ],
+   "departments": [
+    "English"
+   ],
+   "periods": {
+    "1": "English 9 (Joy)",
+    "2": "English 9",
+    "3": "English 9"
+   }
+  },
+  {
+   "name": "Kelly Savio",
+   "sortName": "savio, kelly",
+   "rooms": [
+    "H-6",
+    "C-2"
+   ],
+   "departments": [
+    "English"
+   ],
+   "periods": {
+    "1": "IB English 12",
+    "2": "Creative Writing",
+    "4": "Journalism"
+   }
+  },
+  {
+   "name": "Susan Schiferl",
+   "sortName": "schiferl, susan",
+   "rooms": [
+    "C-3"
+   ],
+   "departments": [
+    "Career Technology Education",
+    "Visual Arts"
+   ],
+   "periods": {
+    "1": "Photography",
+    "2": "Photography",
+    "4": "Photography"
+   }
+  },
+  {
+   "name": "Robin Selzler",
+   "sortName": "selzler, robin",
+   "rooms": [
+    "L-1"
+   ],
+   "departments": [
+    "English",
+    "Emerging Multilingual Learner"
+   ],
+   "periods": {
+    "1": "Seminar",
+    "2": "EML/ALD",
+    "4": "English 10"
+   }
+  },
+  {
+   "name": "Joe Shelton",
+   "sortName": "shelton, joe",
+   "rooms": [
+    "DPEA"
+   ],
+   "departments": [
+    "DPEA"
+   ],
+   "periods": {
+    "1": "PrdMfg & PrdDev2 & Mech 2",
+    "2": "PrdMfg & PrdDev2 & Mech 2",
+    "3": "PrdMfg & PrdDev2 & Mech 2",
+    "4": "PrdMfg & PrdDev2 & Mech 2"
+   }
+  },
+  {
+   "name": "Adam Shive",
+   "sortName": "shive, adam",
+   "rooms": [
+    "C-1"
+   ],
+   "departments": [
+    "Social Studies"
+   ],
+   "periods": {
+    "1": "World History - Innovate",
+    "2": "IB History 12",
+    "3": "IB Film"
+   }
+  },
+  {
+   "name": "Jake Tyler",
+   "sortName": "tyler, jake",
+   "rooms": [
+    "T-4",
+    "T-6"
+   ],
+   "departments": [
+    "Career Technology Education"
+   ],
+   "periods": {
+    "1": "Fine Woodworking",
+    "2": "Construction Tech 1",
+    "3": "Production + D 1/2"
+   }
+  },
+  {
+   "name": "Kelly Uyesaka",
+   "sortName": "uyesaka, kelly",
+   "rooms": [
+    "T-11"
+   ],
+   "departments": [
+    "Health"
+   ],
+   "periods": {
+    "1": "Health",
+    "2": "Health",
+    "3": "Health"
+   }
+  },
+  {
+   "name": "Chrissie Velazquez",
+   "sortName": "velazquez, chrissie",
+   "rooms": [
+    "GYM"
+   ],
+   "departments": [
+    "P.E."
+   ],
+   "periods": {
+    "2": "Dance PE",
+    "3": "Dance PE",
+    "4": "Cheer"
+   }
+  },
+  {
+   "name": "Sarah Sue Wadell",
+   "sortName": "wadell, sarah sue",
+   "rooms": [
+    "B-05"
+   ],
+   "departments": [
+    "Emerging Multilingual Learner"
+   ],
+   "periods": {
+    "2": "ALD",
+    "4": "EML Release"
+   }
+  },
+  {
+   "name": "Lili Walker",
+   "sortName": "walker, lili",
+   "rooms": [
+    "H-23"
+   ],
+   "departments": [
+    "World Languages"
+   ],
+   "periods": {
+    "1": "French 1",
+    "2": "French 1",
+    "3": "French 3"
+   }
+  },
+  {
+   "name": "Aimee Ware",
+   "sortName": "ware, aimee",
+   "rooms": [
+    "P-3"
+   ],
+   "departments": [
+    "Performing Arts"
+   ],
+   "periods": {
+    "2": "Beg/Adv Jazz Band",
+    "4": "Marching Band"
+   }
+  },
+  {
+   "name": "Ann Wirtz",
+   "sortName": "wirtz, ann",
+   "rooms": [
+    "DPEA"
+   ],
+   "departments": [
+    "DPEA"
+   ],
+   "periods": {
+    "1": "Mechatronics 1",
+    "2": "AdvEngrPhys",
+    "3": "STEM 101/ENGR 101"
+   }
+  },
+  {
+   "name": "Melissa Woods",
+   "sortName": "woods, melissa",
+   "rooms": [
+    "DPEA"
+   ],
+   "departments": [
+    "DPEA"
+   ],
+   "periods": {
+    "1": "PrdMfg & PrdDev2 & Mech 2",
+    "2": "PrdMfg & PrdDev2 & Mech 2",
+    "3": "PrdMfg & PrdDev2 & Mech 2"
+   }
+  },
+  {
+   "name": "Rollie Woodward",
+   "sortName": "woodward, rollie",
+   "rooms": [
+    "H-11"
+   ],
+   "departments": [
+    "Social Studies"
+   ],
+   "periods": {
+    "1": "AP Gov/AP Macro Econ",
+    "2": "Gov / Econ",
+    "3": "AP Gov/AP Macro Econ"
+   }
+  },
+  {
+   "name": "Tiffany Yeh",
+   "sortName": "yeh, tiffany",
+   "rooms": [
+    "M-3"
+   ],
+   "departments": [
+    "Math"
+   ],
+   "periods": {
+    "1": "Math 1 - Innovate",
+    "2": "Math 1 Extended Time",
+    "3": "Math 1 Extended Time"
+   }
+  },
+  {
+   "name": "Matt York",
+   "sortName": "york, matt",
+   "rooms": [
+    "Q-12"
+   ],
+   "departments": [
+    "Social Studies"
+   ],
+   "periods": {
+    "2": "World History",
+    "3": "AVID 11",
+    "4": "Athletics"
+   }
+  },
+  {
+   "name": "Joe Zamora",
+   "sortName": "zamora, joe",
+   "rooms": [
+    "GYM"
+   ],
+   "departments": [
+    "P.E."
+   ],
+   "periods": {
+    "1": "Physical Education",
+    "3": "Physical Education",
+    "4": "Athletics"
+   }
+  }
+ ]
+}

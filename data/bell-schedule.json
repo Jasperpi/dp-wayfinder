@@ -1,0 +1,171 @@
+{
+ "schedules": {
+  "monday": {
+   "name": "Monday",
+   "periods": [
+    {
+     "s": 510,
+     "e": 600,
+     "n": "Period 1"
+    },
+    {
+     "s": 600,
+     "e": 606,
+     "n": "Nutrition"
+    },
+    {
+     "s": 612,
+     "e": 708,
+     "n": "Period 2"
+    },
+    {
+     "s": 708,
+     "e": 743,
+     "n": "Lunch"
+    },
+    {
+     "s": 749,
+     "e": 839,
+     "n": "Period 3"
+    },
+    {
+     "s": 845,
+     "e": 935,
+     "n": "Period 4"
+    },
+    {
+     "s": 940,
+     "e": 1009,
+     "n": "Period 5 (athletics)"
+    }
+   ]
+  },
+  "lateStart": {
+   "name": "Tue/Thu (late start)",
+   "periods": [
+    {
+     "s": 555,
+     "e": 634,
+     "n": "Period 1"
+    },
+    {
+     "s": 634,
+     "e": 640,
+     "n": "Nutrition"
+    },
+    {
+     "s": 646,
+     "e": 730,
+     "n": "Period 2"
+    },
+    {
+     "s": 730,
+     "e": 765,
+     "n": "Lunch"
+    },
+    {
+     "s": 771,
+     "e": 850,
+     "n": "Period 3"
+    },
+    {
+     "s": 856,
+     "e": 935,
+     "n": "Period 4"
+    },
+    {
+     "s": 940,
+     "e": 1009,
+     "n": "Period 5 (athletics)"
+    }
+   ]
+  },
+  "seminar": {
+   "name": "Wed/Fri (Seminar)",
+   "periods": [
+    {
+     "s": 510,
+     "e": 589,
+     "n": "Period 1"
+    },
+    {
+     "s": 589,
+     "e": 595,
+     "n": "Nutrition"
+    },
+    {
+     "s": 601,
+     "e": 640,
+     "n": "Seminar"
+    },
+    {
+     "s": 646,
+     "e": 730,
+     "n": "Period 2"
+    },
+    {
+     "s": 730,
+     "e": 765,
+     "n": "Lunch"
+    },
+    {
+     "s": 771,
+     "e": 850,
+     "n": "Period 3"
+    },
+    {
+     "s": 856,
+     "e": 935,
+     "n": "Period 4"
+    },
+    {
+     "s": 940,
+     "e": 1009,
+     "n": "Period 5 (athletics)"
+    }
+   ]
+  },
+  "halfDay": {
+   "name": "End-of-term half day",
+   "periods": [
+    {
+     "s": 510,
+     "e": 565,
+     "n": "Period 1"
+    },
+    {
+     "s": 565,
+     "e": 571,
+     "n": "Nutrition"
+    },
+    {
+     "s": 577,
+     "e": 632,
+     "n": "Period 2"
+    },
+    {
+     "s": 638,
+     "e": 693,
+     "n": "Period 3"
+    },
+    {
+     "s": 699,
+     "e": 754,
+     "n": "Period 4"
+    },
+    {
+     "s": 760,
+     "e": 815,
+     "n": "Period 5"
+    }
+   ]
+  }
+ },
+ "dayToSchedule": {
+  "Monday": "monday",
+  "Tuesday": "lateStart",
+  "Wednesday": "seminar",
+  "Thursday": "lateStart",
+  "Friday": "seminar"
+ }
+}
